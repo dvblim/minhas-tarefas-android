@@ -9,10 +9,6 @@
   Organize as tarefas diárias, semanais e de 15 em 15 dias. O app avisa 15 minutos antes e de novo na hora de começar.
 </p>
 
-<p align="center">
-  <b>🚀 Em breve na Google Play</b>
-</p>
-
 ---
 
 ## Telas
@@ -39,11 +35,9 @@
 - **Próximos avisos:** uma lista do que está agendado no celular, para conferir quando cada aviso vai chegar.
 - **As tarefas ficam só no celular:** nada é enviado para servidores.
 
-## Disponibilidade
+## Requisitos
 
-O app está em fase de testes e **em breve estará disponível na Google Play**.
-
-**Requisitos:** Android 7.0 ou mais recente.
+Android 7.0 ou mais recente.
 
 ## Tecnologias
 
