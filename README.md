@@ -24,8 +24,8 @@
 ## Funcionalidades
 
 - **Três seções de tarefas**
-  - **Diárias:** repetem nos dias escolhidos (por padrão, de segunda a sexta).
-  - **Semanais:** uma vez por semana, no dia escolhido.
+  - **Diárias:** repetem nos dias escolhidos, de segunda a domingo, com atalhos para "seg a sex", "fim de semana" e "todos os dias".
+  - **Semanais:** uma vez por semana, no dia escolhido, inclusive sábado ou domingo.
   - **15 em 15 dias:** você escolhe a data da primeira vez e o app mostra as próximas repetições.
 - **Aba Hoje:** junta tudo o que cai no dia, em ordem de horário.
 - **Aviso 15 minutos antes:** uma notificação com som para se preparar.
